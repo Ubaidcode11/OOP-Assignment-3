@@ -62,8 +62,8 @@ The system is organized into several packages, each handling specific functional
 2. **Set Environment Variables** (for email notifications):
 
    ```bash
-   export SMTP_USERNAME="your-gmail-address@gmail.com"
-   export SMTP_PASSWORD="your-gmail-app-password"
+   export SMTP_USERNAME="mullah.bsds24seecs@seecs.edu.pk"
+   export SMTP_PASSWORD="fzndlrhpvozoydxd"
    ```
 
 3. **Compile the Code**:
